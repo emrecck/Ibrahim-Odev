@@ -45,7 +45,6 @@ export default {
       if ( this.$store.state.filteredCategory.length > 0){
         return this.$store.state.filteredCategory
       }else{
-        debugger
         return this.$store.state.allProductList
       }
       

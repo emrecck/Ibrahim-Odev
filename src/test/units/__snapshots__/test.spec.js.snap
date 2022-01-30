@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`add data to Menu 1`] = `
+<div class="tum-urunler-main col-sm-12 px-0">
+  <div class="col-sm-12">
+    <ul id="side_category_menu" class="side_category_menu col-sm-12">
+      <li id="0" class="list-item">
+        <router-link to="/allproducts"><span class="item-name"> Aile Boyu </span></router-link>
+        <!---->
+      </li>
+      <li id="1" class="list-item">
+        <router-link to="/allproducts"><span class="item-name active">Tüm Ürünler</span></router-link>
+        <!---->
+      </li>
+      <li id="2" class="list-item">
+        <router-link to="/allproducts"><span class="item-name"> Sebze &amp; Meyve </span></router-link>
+        <!---->
+      </li>
+      <li id="3" class="list-item">
+        <router-link to="/allproducts"><span class="item-name"> Süt &amp; Peynir </span></router-link>
+        <!---->
+      </li>
+      <li id="4" class="list-item">
+        <router-link to="/allproducts"><span class="item-name"> Yumurta &amp; Sucuk </span></router-link>
+        <!---->
+      </li>
+      <li id="5" class="list-item">
+        <router-link to="/allproducts"><span class="item-name"> Salça &amp; Turşu </span></router-link>
+        <!---->
+      </li>
+      <li id="6" class="list-item">
+        <router-link to="/allproducts"><span class="item-name"> Zeytin &amp; Zeytinyağı </span></router-link>
+        <!---->
+      </li>
+      <li id="7" class="list-item">
+        <router-link to="/allproducts"><span class="item-name"> Reçel &amp; Bal </span></router-link>
+        <!---->
+      </li>
+      <li id="8" class="list-item">
+        <router-link to="/allproducts"><span class="item-name"> Sebzeler </span></router-link>
+        <!---->
+      </li>
+      <li id="9" class="list-item">
+        <router-link to="/allproducts"><span class="item-name"> Ekmek </span></router-link>
+        <!---->
+      </li>
+      <li id="10" class="list-item">
+        <router-link to="/allproducts"><span class="item-name"> Meyveler </span></router-link>
+        <!---->
+      </li>
+      <li id="11" class="list-item">
+        <router-link to="/allproducts"><span class="item-name"> Hediye Paketleri </span></router-link>
+        <!---->
+      </li>
+      <li id="12" class="list-item">
+        <router-link to="/allproducts"><span class="item-name"> Paketler </span></router-link>
+        <!---->
+      </li>
+    </ul>
+  </div>
+</div>
+`;

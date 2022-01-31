@@ -5,9 +5,7 @@
         <div class="col-sm-12 p-3 border-layer">
           <div class="col-sm-12 px-0 urun">
             <div class="col-sm-12 p-0">
-              <a href="#">
                 <router-link to="/product"><img @click="addProductItem(pitem)" class="urun-img" v-bind:src="pitem.imgSource" /></router-link>
-              </a>
             </div>
 
             <div class="col-sm-12 pt-3 px-0">

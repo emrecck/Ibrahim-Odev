@@ -9,14 +9,12 @@
         <div class="col-sm-12 p-3 border-layer">
           <div class="col-sm-12 px-0 urun">
             <div class="col-sm-12 p-0">
-              <a href="#">
                 <router-link to="/product"
                   ><img
                     @click="addProductItem(productItem)"
                     class="urun-img"
                     v-bind:src="productItem.imgSource"
                 /></router-link >
-              </a>
             </div>
 
             <div class="col-sm-12 pt-3 px-0">
@@ -68,7 +66,7 @@ export default {
     addProductItem(productItem) {
       this.$store.commit("addProductItem", productItem);
     },
-  }
+  },
   
   // created() {
   //   axios
